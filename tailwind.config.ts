@@ -1,5 +1,5 @@
 import type { Config } from "tailwindcss";
-
+import gb from "./assets/public/icons/gradient-mesh.svg";
 const config = {
   darkMode: ["class"],
   content: [
